@@ -1,0 +1,183 @@
+{
+  "basics": {
+    "name": "Bogdan Carpusor",
+    "label": "Software Developer",
+    "picture": "https://en.gravatar.com/userimage/117153932/68bc94ca4cdaf0a17b259ed663f7dfee.jpg?size=200",
+    "email": "bogdan.carpusor@gmail.com",
+     "website": "http://bogdancarpusor.github.io",
+    "phone": "+(40) 747 802 698",
+    "summary": "I am a highly opinionated software developer with an avid passion for technology and business development. I like meeting new people, working with them and listening to their stories.",
+    "location": {
+      "address": "Sos. Nicolina nr. 52",
+      "postalCode": "700686",
+      "city": "Iasi",
+      "countryCode": "RO",
+      "region": "Romania"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "bogdancarpusor",
+        "url": "https://github.com/bogdancarpusor"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "bogdancarpusor",
+        "url": "https://www.linkedin.com/in/bogdan-carpusor-4190865a"
+      },
+      {
+        "network": "Twitter",
+        "username": "bcbogdan",
+        "url": "https://twitter.com/bcbogdan"
+      },
+      {
+        "network": "Facebook",
+        "username": "bogdancarpusor",
+        "url": "https://www.facebook.com/bogdan.carpusor"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Cloudbase Solutoins",
+      "position": "Cloud Engineer",
+      "website": "http://cloudbase.it",
+      "startDate": "2016-07-20",
+      "summary": "While working at Cloudbase I was involved in developing different solutions for existing projects and with testing Linux integration drivers, developed by Microsoft.",
+      "highlights": [
+        "Developed the back-end functionality for the Aurora Project. The project involved creating an interface, similar with Openstack Horizon.",
+	"Extended Horizon functionality with custom features.",
+        "Created python cli tools for the existing testing infrastructure.",
+        "Created and ran automation tests on Linux virtual machines in order to check the functionality of the LIS(Linux Integration Services) drivers."
+      ]
+    },
+    {
+      "company": "eMAG",
+      "position": "Software Developer Intern",
+      "website": "http://emag.ro",
+      "startDate": "2015-07-01",
+      "endDate": "2015-09-01",
+      "summary": "I have spent two months on an internship program focused on web development. Together with the other interns we were tasked with developing an internal web platform for the company.",
+      "highlights": [
+        "Implemented the front end design and behaviour of the project.",
+        "Developed the module that handled article comments for the application.",
+        "Optimized the flow of the application by improving the other modules and refactoring the code bases."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "BEST Iasi",
+      "position": "President",
+      "website": "http://bestis.ro/",
+      "startDate": "2014-09-01",
+      "endDate": "2015-09-01",
+      "summary": "BEST, Board of European Students of Technology, is a constantly growing student organisation focused on developing technical students from European Universities.",
+      "highlights": [
+        "Coordinated the activity of the NGO's board.",
+        "Developed and implemented the organisation's general strategy.",
+        "Maintained close contact with University representatives and partner NGOs.",
+        "Worked with other Local BEST Groups and the International Management of BEST."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University \"Gheorghe Asachi\" - Faculty of Automatics and Computer Engineering",
+      "area": "Information Technology",
+      "studyType": "Bachelor",
+      "startDate": "2012-09-01",
+      "endDate": "2016-07-01",
+      "courses": [
+        "Data Structures",
+        "Algorithms",
+        "Operating Systems",
+        "Distributed Systems",
+        "Web Technologies",
+        "Search Engines"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Dev",
+      "level": "Working knowledge",
+      "keywords": [
+        "Javascript",
+        "NodeJS",
+        "Python",
+        "MySQL",
+        "MongoDB",
+        "Typescript",
+        "Git",
+        "ExpressJS",
+	"Django",
+        "RabbitMQ"
+      ]
+    },
+    {
+      "name": "Ops",
+      "level": "Working knowledge",
+      "keywords": [
+        "Linux",
+        "System Administration",
+        "Powershell",
+        "Bash scripting",
+        "Jenkins",
+        "Virtualization",
+        "Windows HyperV"
+
+      ]
+    },
+    {
+      "name": "Other",
+      "level": "Working knowledge",
+      "keywords": [
+        "Team Management",
+        "Presentation Skills",
+        "Project Management",
+        "Agile Development"
+
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Romanian",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional proficiency"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Hobbies",
+      "keywords": [
+        "Graphic Design",
+        "Product Management",
+        "Travelling",
+        "Astrophysics",
+        "Cooking"
+      ]
+    },
+    {
+      "name": "Reading",
+      "keywords": [
+        "Science Fiction",
+        "Fantasy",
+        "Psychology",
+        "Marketing"
+      ]
+    },
+    {
+      "name": "Sports",
+      "keywords": [
+        "Tennis",
+        "Football",
+        "Motorosport"
+      ]
+    }
+  ]
+}
