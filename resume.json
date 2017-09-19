@@ -46,8 +46,8 @@
       "summary": "While working at Cloudbase I was involved in developing different solutions for existing projects and with testing Linux integration drivers, developed by Microsoft.",
       "highlights": [
         "Developed the back-end functionality for the Aurora Project. The project involved creating an interface, similar with Openstack Horizon.",
-	"Extended Horizon functionality with custom features.",
-        "Created python cli tools for the existing testing infrastructure.",
+	"Extended Openstack Horizon functionality with custom features.",
+        "Created cli tools and extended the automation infrastructure.",
         "Created and ran automation tests on Linux virtual machines in order to check the functionality of the LIS(Linux Integration Services) drivers."
       ]
     },
@@ -103,9 +103,9 @@
       "name": "Dev",
       "level": "Working knowledge",
       "keywords": [
+        "Python",
         "Javascript",
         "NodeJS",
-        "Python",
         "MySQL",
         "MongoDB",
         "Typescript",
@@ -126,7 +126,6 @@
         "Jenkins",
         "Virtualization",
         "Windows HyperV"
-
       ]
     },
     {
@@ -155,10 +154,8 @@
     {
       "name": "Hobbies",
       "keywords": [
-        "Graphic Design",
-        "Product Management",
         "Travelling",
-        "Astrophysics",
+        "Graphic Design",
         "Cooking"
       ]
     },
@@ -169,14 +166,6 @@
         "Fantasy",
         "Psychology",
         "Marketing"
-      ]
-    },
-    {
-      "name": "Sports",
-      "keywords": [
-        "Tennis",
-        "Football",
-        "Motorosport"
       ]
     }
   ]
