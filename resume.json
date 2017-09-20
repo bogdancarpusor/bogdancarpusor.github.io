@@ -39,16 +39,16 @@
   },
   "work": [
     {
-      "company": "Cloudbase Solutoins",
+      "company": "Cloudbase Solutions",
       "position": "Cloud Engineer",
       "website": "http://cloudbase.it",
       "startDate": "2016-07-20",
-      "summary": "While working at Cloudbase I was involved in developing different solutions for existing projects and with testing Linux integration drivers, developed by Microsoft.",
+      "summary": "While working at Cloudbase I was involved in different roles on multiple projects.",
       "highlights": [
-        "Developed the back-end functionality for the Aurora Project. The project involved creating an interface, similar with Openstack Horizon.",
-	"Extended Openstack Horizon functionality with custom features.",
-        "Created cli tools and extended the automation infrastructure.",
-        "Created and ran automation tests on Linux virtual machines in order to check the functionality of the LIS(Linux Integration Services) drivers."
+        "Development of web services",
+	"Management and administration of automation infrastructures",
+        "Automation testing",
+        "Plugin development for OpenStack Horizon"
       ]
     },
     {
@@ -59,9 +59,7 @@
       "endDate": "2015-09-01",
       "summary": "I have spent two months on an internship program focused on web development. Together with the other interns we were tasked with developing an internal web platform for the company.",
       "highlights": [
-        "Implemented the front end design and behaviour of the project.",
-        "Developed the module that handled article comments for the application.",
-        "Optimized the flow of the application by improving the other modules and refactoring the code bases."
+        "Front-end and back-end development on Symfony based projects"
       ]
     }
   ],
