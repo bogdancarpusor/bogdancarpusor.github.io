@@ -2,7 +2,7 @@
   "basics": {
     "name": "Bogdan Carpusor",
     "label": "Full Stack Developer",
-    "summary": "I’m a full stack web developer who can build apps from the ground up. I've worked mostly at small size companies, in agile environments, so I am use to wearing many hats. I am a very product focussed developer who focuses on fast iterations and user feedback. ",
+    "summary": "I’m a full stack web developer who can build apps from the ground up. I've worked mostly at small size companies, in agile environments, so I am used to wearing many hats. I am a very product oriented developer who focuses on fast iterations and user feedback. ",
     "email": "bogdan.carpusor@gmail.com",
     "picture": "https://en.gravatar.com/userimage/117153932/68bc94ca4cdaf0a17b259ed663f7dfee.jpg?size=200",
     "location": {
@@ -70,7 +70,7 @@
   "work": [
     {
       "company": "Nifty Learning",
-      "position": "Full Stack Engineer",
+      "position": "Co-founder & Full Stack Engineer",
       "website": "http://niftylearning.io",
       "startDate": "2017-08-20",
       "summary": "Built a SaaS product on enterprise learning management from the ground up together with three other friends.",
